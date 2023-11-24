@@ -9,7 +9,7 @@ Additionally, we believe that the multimodal generalization algorithms proposed 
 
 # To run our code
 
-1. download the dataset and pretrained models from Onedrive and unzip them in the project file.
+1. download the dataset and pretrained models from Onedrive([datasets_pretrain_models.zip](https://portland-my.sharepoint.com/:u:/g/personal/liuhui3-c_my_cityu_edu_hk/ESqS-qpzsYJGoawSrzKDOlcBWr5e2plKA47L1JX0zsF4Ug?e=Gqu5Qi)) and unzip them in  this project dir.
 
 2. drive_outmodel.py is the main file to drive our algorithms. Please remove the codes related to comel package that enable efficient management of ML experiments or add your api_key and other parameters in the below codes in this file:
 
@@ -45,7 +45,7 @@ If you find this repository helpful, please cite our paper:
   doi={10.1109/TIFS.2023.3326368}}
 ```
 
-If you have interest in multimodal misinformation detection, another paper of me on multimodal misinformation task can help you https://arxiv.org/abs/2305.05964. Despite accepted by Funding, this paper got three strong accepts :) :) :) . So it can work as a good reference, haha.
+If you have interest in multimodal misinformation detection, another paper of me on multimodal misinformation task can help you https://arxiv.org/abs/2305.05964. Despite only accepted by Funding, this paper got three strong accepts :) :) :) . So it can work as a good reference, haha.
 
 ```
 @inproceedings{DBLP:conf/acl/LiuWL23,
