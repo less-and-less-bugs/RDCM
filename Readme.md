@@ -45,7 +45,7 @@ If you find this repository helpful, please cite our paper:
   doi={10.1109/TIFS.2023.3326368}}
 ```
 
-If you have interest in multimodal misinformation detection, another paper of me on multimodal misinformation task can help you https://arxiv.org/abs/2305.05964. Despite only accepted by Funding, this paper got three strong accepts :) :) :) . So it can work as a good reference, haha.
+If you have interest in multimodal misinformation detection, another paper of me on multimodal misinformation task can help you https://arxiv.org/abs/2305.05964. 
 
 ```
 @inproceedings{DBLP:conf/acl/LiuWL23,
